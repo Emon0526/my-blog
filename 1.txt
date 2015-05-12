@@ -1,19 +1,6 @@
-123123123123这是很长很好的一生。
-
 echo "# Tesst" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Emon0526/Tesst.git
 git push -u origin master
-
-
-memeda
-
-
-2333
-
-
-222222
-
-222
