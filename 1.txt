@@ -1,4 +1,4 @@
-这是很长很好的一生。
+123123123123这是很长很好的一生。
 
 echo "# Tesst" >> README.md
 git init
