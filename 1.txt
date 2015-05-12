@@ -4,11 +4,3 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Emon0526/Tesst.git
 git push -u origin master
-
-222
-
-3333
-
-44444
-
-555555
