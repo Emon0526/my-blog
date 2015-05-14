@@ -188,8 +188,6 @@ ssh -T git@github.com
      help.github
 ```
 
-\`\`\`
-
 ---
 
 原文链接：http://my.oschina.net/u/2362030/blog/413963
