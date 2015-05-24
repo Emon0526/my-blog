@@ -195,3 +195,7 @@ console.log(array);
 console.log(evens);  
 // → [2, 4]
 ```
+
+---
+
+原文链接：http://my.oschina.net/u/2362030/blog/418920
